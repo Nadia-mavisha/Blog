@@ -1,0 +1,25 @@
+com/example/blog/NoteRepository.java
+ com.example.blog.NoteRepository
+ com.example.blog.NoteRepository$1
+ com.example.blog.NoteRepository$DeleteAllNotesAsyncTask
+ com.example.blog.NoteRepository$DeleteNoteAsyncTask
+ com.example.blog.NoteRepository$InsertNoteAsyncTask
+ com.example.blog.NoteRepository$UpdateNoteAsyncTask
+com/example/blog/NoteDao.java
+ com.example.blog.NoteDao
+com/example/blog/MainActivity.java
+ com.example.blog.MainActivity
+ com.example.blog.MainActivity$1
+com/example/blog/BuildConfig.java
+ com.example.blog.BuildConfig
+com/example/blog/Note.java
+ com.example.blog.Note
+com/example/blog/NoteAdapter.java
+ com.example.blog.NoteAdapter
+ com.example.blog.NoteAdapter$NoteHolder
+com/example/blog/NoteDatabase.java
+ com.example.blog.NoteDatabase
+ com.example.blog.NoteDatabase$1
+ com.example.blog.NoteDatabase$PopulateDbAsyncTask
+com/example/blog/NoteViewModel.java
+ com.example.blog.NoteViewModel
